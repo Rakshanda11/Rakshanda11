@@ -9,7 +9,7 @@ Hi there! 👋  I'm Rakshanda Mahajan
 ✉️  You can shoot me an email at rakshanda.mahajan17@vit.edu! I'll try to respond as soon as I can.
 
 🛠  Tech Stack
-Python  JavaScript  React  Node.js  DynamoDB  Flutter  Java 
+Python  JavaScript  React  Node.js  DynamoDB  Flutter  Java API
 
 Git  GitHub  Visual Studio Code 
 
