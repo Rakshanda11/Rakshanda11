@@ -3,7 +3,7 @@
 ### 👨 All about me:
   💡 &nbsp;I like to explore new technologies try to create something using MERN stack.\
   🎓 &nbsp;I have persued Computer Engineering at Vishwakarma Institute of Technology, Pune.\
-  🌱 &nbsp;I look forward to learn more about Natural Language Processing, Systems Design, and Microservice Architecture in Web.\
+  🌱 &nbsp;I look forward to learn more about Data Engineering and Penetration Testing.\
   ✍️ &nbsp;In my free time, I am either on Netflix or work on Web Stack.\
   💬 &nbsp;Feel free to reach out to me if you're interesed in any of my work.\
   ✉️ &nbsp;You can shoot me an email at rakshanda.mahajan17@vit.edu! I'll try to respond as soon as I can.
